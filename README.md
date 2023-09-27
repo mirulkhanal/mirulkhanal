@@ -17,12 +17,23 @@
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
 
-- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 📓 I'm a student of [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn).
-- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `Backend Crew Leader`.
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
+1. Proficient in JavaScript, React, Redux, Node.js, Express, TypeScript, NextJs/12, GraphQL,
+Apolloserver@v4, SocketIO and PrismaORM.
+2. Proficient in foundational web technologies like CSS3, HTML5, JavaScript ECMA6+ and PHP
+(Laravel)
+3. Basic understanding of System level languages like C++, C# and Java
+4. Basic understanding of mobile app development using Android Studio (Java)
+5. Proficient in React native for mobile app development
+6. Machine Learning, Data Science, Deep Learning, CNNs and DNNs using Python, Numpy,
+Pandas, seaborn, matplotlib, ScikitLearn, PyTorch, TensorFlow and Keras.
+7. Experience with regression problems (Linear and Logistic), classification problems (Binary,
+Multi-Class Classification) and supervised learning.
+8. Basic understanding of image manipulation using OpenCV with python wrapper.
+9. Basic understanding of AWS S3 buckets.
+10. Experience with version control systems (Git with GitHub).
+11. Strong problem-solving and communication skills.
+12. Ability to work well in a team environment.
+
 
 <h2>Tech stack</h2>
 
